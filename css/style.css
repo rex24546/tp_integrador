@@ -82,7 +82,7 @@ font-weight: 800;
 	/* margin-left: 70%; */
 	/* background: #106eea; */
 	font-style: normal;
-	font-size:larger;
+	font-size:small;
 	font-weight: 400;
 	font-family:Verdana, Geneva, Tahoma, sans-serif;
 	}
@@ -97,7 +97,7 @@ font-weight: 800;
 	/* padding-bottom: 15%; */
 	/* padding-left: 15%; */
   position: absolute;
-  top: 45%;
+  top: 40%;
   right: 0;
   left: auto;
   padding: 6rem;
@@ -144,6 +144,7 @@ color: white;
 		bottom: 370px;
 	}
 	.carousel-caption p {
+		
 		width: 100%;
 	}
 	.card {
