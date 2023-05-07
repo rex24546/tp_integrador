@@ -173,12 +173,13 @@ color: white;
 .parrafo-left{
 
 	font-style: normal;
-	font-size:small;
-	font-weight: 300;
+	/* font-size:small; */
+	/* font-weight: 300; */
 	font-family:Verdana, Geneva, Tahoma, sans-serif;
 	}
 
 }
+
 
 
 
@@ -222,10 +223,16 @@ color: white;
 	/* margin-left: 70%; */
 	/* background: #106eea; */
 	font-style: normal;
-	font-size:small;
-	font-weight: 100;
+	/* font-size:small; */
+	/* font-weight: 100; */
+	font-size: 30%;
 	font-family:Verdana, Geneva, Tahoma, sans-serif;
 	}
+
+	
+
+
+
 
 }
 
