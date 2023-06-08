@@ -140,6 +140,14 @@ color: white;
 
 
 
+.centrado {
+	/* display: flex;
+	justify-content: center;
+	align-items: center; */
+	text-align: center;
+	border-color: red;
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.carousel-caption {
 		bottom: 370px;
@@ -179,8 +187,6 @@ color: white;
 	}
 
 }
-
-
 
 
 
